@@ -1,3 +1,5 @@
+#My project is aimed at checking the compliance of the titles of individual subpages of the website in one test window and automatic closing of the browser after all tests have been performed.
+
 import unittest
 from selenium import webdriver
 
